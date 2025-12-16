@@ -1,5 +1,5 @@
 ## Hi there 👋
-### I'm Nikhil Narayan, an undergraduate student pursuing BTech in Computer Science and Engineering from Delhi Technological University (formerly DCE)
+### I'm Nikhil Narayan Upadhyay, an undergraduate student pursuing BTech in Computer Science and Engineering from Delhi Technological University (formerly DCE)
 - 🔭 I’m currently working on Full-stack web development and cross-platform mobile application development
 - 🌱 I’m currently learning Data structures and Algorithms and Application development
 - 📫 How to reach me: kshv8@outlook.com
