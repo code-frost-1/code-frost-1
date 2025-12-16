@@ -3,6 +3,7 @@
 - 🔭 I’m currently working on Full-stack web development and cross-platform mobile application development
 - 🌱 I’m currently learning Data structures and Algorithms and Application development
 - 📫 How to reach me: kshv8@outlook.com
+- ⚡ Tech stack: HTML5, CSS3, JavaScript, Python, NodeJs, ExpressJs, Django, Mongodb, PostgreSQL
 - ⚡ Fun fact: I love playing cricket
 
 <!--
