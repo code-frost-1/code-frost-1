@@ -1,9 +1,9 @@
-<!--## Hi there 👋
-### I'm Nikhil Narayan Upadhyay, an undergraduate student pursuing BTech in Computer Science and Engineering from Delhi Technological University (formerly DCE)
+## Hi there 👋
+<!--### I'm Nikhil Narayan Upadhyay, an undergraduate student pursuing BTech in Computer Science and Engineering from Delhi Technological University (formerly DCE)
 - 🔭 I’m currently working on Full-stack web development and cross-platform mobile application development
 - 🌱 I’m currently learning Data structures and Algorithms and Application development
 - 📫 How to reach me: kshv8@outlook.com
-- ⚡ Tech stack: HTML5, CSS3, JavaScript, Python, NodeJs, ExpressJs, ReactJs, Django, Mongodb, PostgreSQL, websockets, webRTC
+- ⚡ Tech stack: HTML5, CSS3, JavaScript, Python, NodeJs, ExpressJs, Mongodb, PostgreSQL
 - ⚡ Fun fact: I love playing cricket-->
 
 <!--
