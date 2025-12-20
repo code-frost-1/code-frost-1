@@ -1,10 +1,10 @@
-## Hi there 👋
+<!--## Hi there 👋
 ### I'm Nikhil Narayan Upadhyay, an undergraduate student pursuing BTech in Computer Science and Engineering from Delhi Technological University (formerly DCE)
 - 🔭 I’m currently working on Full-stack web development and cross-platform mobile application development
 - 🌱 I’m currently learning Data structures and Algorithms and Application development
 - 📫 How to reach me: kshv8@outlook.com
 - ⚡ Tech stack: HTML5, CSS3, JavaScript, Python, NodeJs, ExpressJs, ReactJs, Django, Mongodb, PostgreSQL, websockets, webRTC
-- ⚡ Fun fact: I love playing cricket
+- ⚡ Fun fact: I love playing cricket-->
 
 <!--
 **code-frost-1/code-frost-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
