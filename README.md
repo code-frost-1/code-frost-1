@@ -7,7 +7,7 @@
   * Languages: C, C++, JavaScript, Python, SQL
   * Databases: MySQL, MongoDB, PostgreSQL
   * Web Technologies: HTML, CSS, JavaScript, Node.js, Express.js, Ejs, node-postgres, Passport, JWT, RestAPIs
-* ⚡ Fun fact: I love playing cricket-->
+* ⚡ Fun fact: I love playing cricket
 
 <!--
 **code-frost-1/code-frost-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
